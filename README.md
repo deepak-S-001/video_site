@@ -1,7 +1,6 @@
 # Video Site 
 
-## Video tracking site in GTM 
-
+Video tracking site in GTM 
 
 ### Types Of Video
 ------------------
